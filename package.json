@@ -1,0 +1,30 @@
+{
+  "name": "first-teste-software",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geronilton/First-Teste-Software.git"
+  },
+  "keywords": [
+    "teste",
+    "software",
+    "atividade"
+  ],
+  "author": "Geronilton de Oliveira silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geronilton/First-Teste-Software/issues"
+  },
+  "homepage": "https://github.com/Geronilton/First-Teste-Software#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }, 
+    "scripts": {
+      "test": "jest"
+    }
+}
